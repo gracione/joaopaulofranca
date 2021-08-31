@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulofranca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofranca&&layout=compact&hide=shell&theme=algolia"/>
 
-  <img align="center" width="148" height="180" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eb70ccc-e7ad-4e1a-87fa-f97df9ef1c52/d7a50tw-23e97b5e-92ed-4879-96c4-6b71ce48f240.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlYjcwY2NjLWU3YWQtNGUxYS04N2ZhLWY5N2RmOWVmMWM1MlwvZDdhNTB0dy0yM2U5N2I1ZS05MmVkLTQ4NzktOTZjNC02YjcxY2U0OGYyNDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FZ6mhGXqVwI3CkWFIBO2YJ0Rq0v1hu8gXsduOOOCY_A">
+  <img align="center" width="200" height="180" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eb70ccc-e7ad-4e1a-87fa-f97df9ef1c52/d7a50tw-23e97b5e-92ed-4879-96c4-6b71ce48f240.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlYjcwY2NjLWU3YWQtNGUxYS04N2ZhLWY5N2RmOWVmMWM1MlwvZDdhNTB0dy0yM2U5N2I1ZS05MmVkLTQ4NzktOTZjNC02YjcxY2U0OGYyNDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FZ6mhGXqVwI3CkWFIBO2YJ0Rq0v1hu8gXsduOOOCY_A">
 </div>
  <br>
 <div  align="center"> 
