@@ -1,4 +1,4 @@
-<h1> Olá! Sou João Paulo, seja bem vindo! </h1>
+<h1> Olá! Meu nome é João Paulo, seja bem vindo! </h1>
 
 <div align="center">
   <a href="https://github.com/joaopaulofranca/joaopaulofranca/">
