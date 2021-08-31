@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/joaopaulofranca/joaopaulofranca/">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulofranca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-     <img align="center" width="auto" height="220" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif">
+     <img align="center" width="auto" height="220" src="https://camo.githubusercontent.com/6dfeb88c78b58a901a9f4f5b1cb9c91c51cb83472192c6268399d9e296e9353d/68747470733a2f2f626c6f672e636c6f75646c617965722e696f2f636f6e74656e742f696d616765732f323032302f31322f636f64696e672d667265616b2e676966">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofranca&&layout=compact&hide=shell&theme=algolia"/>
 
 </div>
