@@ -1,6 +1,6 @@
 <h1> Hi! My name is João Paulo. </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/joaopaulofranca/joaopaulofranca/">
     
   <img height="180em" align="center" width="350em"  src="https://github-readme-stats.vercel.app/api?username=joaopaulofranca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
