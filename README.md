@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/joaopaulofranca/joaopaulofranca/">
-  <img height="180em" width="30%"  align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulofranca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofranca&&layout=compact&hide=shell&theme=algolia"/>
-    <img align="center" width="30%" height="180em" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
+  <img height="180em" width="220em"  align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulofranca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofranca&&layout=compact&hide=shell&theme=algolia"/>
+    <img align="center" width="220em" height="180em" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
 
 </div>
  <br>
