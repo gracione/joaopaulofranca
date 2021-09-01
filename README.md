@@ -12,7 +12,7 @@
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="jp-yoda" height="49" width="50" src="https://media.tenor.com/images/ed87091677cfbc14672a4f87a0e4e416/tenor.gif">
+  <img align="right" alt="jp-yoda" height="149" width="150" src="https://media.tenor.com/images/ed87091677cfbc14672a4f87a0e4e416/tenor.gif">
 </div>
   
   ##
